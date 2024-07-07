@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**DiKlimen/DiKlimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning frontend development, focusing on:
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Apart from coding, I have a few passions that make my life more exciting:
+
+- ✈️ **Aviation:** I'm fascinated by everything related to flying and airplanes.
+- 🏍️ **Motorcycles:** I love riding motorcycles and exploring new routes.
+- 💪 **Fitness:** I regularly work out at the gym and lead an active lifestyle.
+
+Feel free to check out my projects and connect with me here on GitHub! 🚀
